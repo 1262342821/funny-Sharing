@@ -1,0 +1,5 @@
+Á½¸öCMD
+
+node app.js
+
+npm run dev
